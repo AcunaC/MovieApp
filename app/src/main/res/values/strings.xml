@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="app_logo">Logo de la aplicación</string>
+    <string name="must_enter_username">Debes ingresar el nombre de usuario.</string>
+    <string name="must_enter_password">Debes ingresar la contraseña</string>
+    <string name="username_not_registered">Nombre de usuario no registrado.</string>
+    <string name="invalid_password">Contraseña incorrecta</string>
+    <string name="unknown_error">Algo pasó mal</string>
+</resources>
